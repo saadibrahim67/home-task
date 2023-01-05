@@ -1,0 +1,235 @@
+.jp{
+    text-align: center;
+    background-image: url(../images/photo-1567620905732-2d1ec7ab7445.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 5px;
+    border-width: 20px;
+    height: 20cm;
+    bottom: -700px;
+    background-position: center;
+}
+.kkk{
+    border-radius: 10px;
+    size: 100px;
+    
+}
+.yes{
+    color: rgb(15, 1, 15);
+    background-color:transparent;
+    left: 10px;
+}
+.io{
+    color: white;
+    background-color: transparent;
+}
+.para{
+    size: 5px;
+}
+.b{
+    display: inline;
+    background-color: white;
+    color: black;
+    display: inline-block;
+    text-align: center;
+    border:5cm ;
+    border-radius: 20px;
+    width: 300px;
+    padding: auto;
+    height: auto;
+}
+.n{
+    display: inline;
+    background-color:white;
+    color: black;
+    display: inline-block;
+    text-align: center;
+    border: 5cm;
+    border-radius: 20px;
+    width: 300px;
+    padding: auto;
+    height: auto;
+}
+.m{
+    display: inline;
+    background-color:white;
+    color: black;
+    display: inline-block;
+    text-align: center;
+    border: 5cm;
+    border-radius: 20px;
+    width: 300px;
+    padding: auto;
+    height: auto;
+}
+.op{
+    border: 30px;
+    border-radius: 30px;
+}
+.jk{
+    text-align: center;
+}
+.po{
+    background-image: url(../images/phone.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: 200px;
+    border-radius: 20px;
+    height: 15cm;
+    background-color: rgb(216, 209, 209);
+}
+.lo{
+    display: inline-block;
+    background-position: 200px;
+    background-color:transparent;
+    width: 300px;
+    height: 400px;
+    text-align: center;
+    position: absolute;
+    left: 700px;
+    bottom: -850px;
+    text-transform: capitalize;
+    
+}
+.qw{
+    position: absolute;
+    bottom: 150px;
+    text-align: center;
+    left: 600px;
+}
+.as{
+    
+    text-align: center;
+    border-radius: 20px;
+height: 6cm;
+background-image: url(../images/plant-based-food-mc-220323-02-273c7b.jpg);
+background-color: rgba(rgb(5rgb(61, 66, 61), 52), green, rgb(73, 73, 82), o.9);
+    background-repeat: no-repeat;
+    background-size: cover;
+background-position: center;
+
+}
+i{
+    border:15px solid rgb(59, 26, 26);
+    border-radius: 20px;
+}
+.radius{
+    width: 100px;
+    border-radius: 100px;
+    border-width: 50px;
+    background-color: white;
+}
+.pop{
+    text-align: center;
+}
+.fre{
+    background-image: url(../images/french.jpeg);
+    display: inline-block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+    color: yellow;
+}
+.ind{
+    background-image: url(../images/indian.webp);
+    display: inline-block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+    color: yellow;
+}
+.pak{
+    background-image: url(../images/pakistani.jpg);
+    display: inline-block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+    color: blue;
+}
+.arb{
+    background-image: url(../images/arab.webp);
+    display: inline-block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+    color: blue;
+}
+.pol{
+    text-align: center;
+}
+.lop{
+    position: absolute;
+    bottom: -1150px;
+    color: white;
+    
+    
+}
+.wor{
+    display: inline-block;
+    width: 300px;
+    height: 30px;
+    border-radius: 30px;
+    border: 10px;
+    border-style: solid;
+    background-color: red;
+}
+.reci{
+    display: inline-block;
+    width: 300px;
+    height: 30px;
+    border-radius: 30px;
+    border: 10px;
+    border-style: solid;
+    background-color: red;
+}
+.ord{
+    display: inline-block;
+    width: 300px;
+    height: 30px;
+    border-radius: 30px;
+    border: 10px;
+    border-style: solid;
+    background-color: red;
+}
+.yout{
+    text-align: center;
+
+}
+.oo{
+  position: absolute;
+    top: 30px;
+    right: 30px;
+    background-color: transparent;
+    color: brown;
+    
+}    
+.pp{ 
+    position: absolute;
+    top: 30px;
+    right: 100px;
+    background-color: transparent;
+    color: brown;
+
+}
+.mm{
+    background-color: transparent;
+    color: red;
+}
+.nn{
+    background-color: transparent;
+    color: red;
+}
+.bb{
+    background-color: transparent;
+    color: red;
+
+}
+.vv{
+    position: absolute;
+    top: -110px;
+    text-align: center;left: 20px;
+}
