@@ -89,6 +89,7 @@
     left: 700px;
     bottom: -850px;
     text-transform: capitalize;
+
     
 }
 .qw{
@@ -101,9 +102,7 @@
     
     text-align: center;
     border-radius: 20px;
-height: 6cm;
 background-image: url(../images/plant-based-food-mc-220323-02-273c7b.jpg);
-background-color: rgba(rgb(5rgb(61, 66, 61), 52), green, rgb(73, 73, 82), o.9);
     background-repeat: no-repeat;
     background-size: cover;
 background-position: center;
@@ -162,9 +161,12 @@ i{
     text-align: center;
 }
 .lop{
-    position: absolute;
-    bottom: -1150px;
+    /* position: absolute; */
+    /* bottom: -1150px; */
     color: white;
+background-color: rgba(61, 66, 61,.7);
+padding:60px 0;
+
     
     
 }
